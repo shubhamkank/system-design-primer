@@ -371,7 +371,7 @@ New to system design?
 
 First, you'll need a basic understanding of common principles, learning about what they are, how they are used, and their pros and cons.
 
-### Step 1: Review the scalability video lecture
+### Step 1: Review the scalability video lecture [DONE]
 
 [Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
 
